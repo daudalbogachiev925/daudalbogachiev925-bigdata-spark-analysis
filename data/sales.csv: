@@ -1,0 +1,11 @@
+order_id,region,month,product,amount
+1,North,2024-01,Apple,100
+2,South,2024-01,Banana,50
+3,North,2024-02,Apple,150
+4,East,2024-02,Orange,200
+5,West,2024-03,Apple,120
+6,North,2024-03,Banana,80
+7,South,2024-03,Apple,90
+8,East,2024-01,Orange,110
+9,West,2024-02,Banana,60
+10,North,2024-01,Orange,140
